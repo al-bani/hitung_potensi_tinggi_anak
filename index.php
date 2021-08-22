@@ -66,7 +66,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
 			<input type="text" disabled="true" placeholder="Tinggi Badan Maksimal Anak" class="bil">
 			<input type="text" disabled="true" placeholder="Tinggi Badan Minimal Anak" class="bil">
 		<?php } ?>	
-	<h4 href="https://www.idai.or.id/professional-resources/kurva-pertumbuhan/kalkulator-tinggi-potensi-genetik">Sumber Perhitungan</h4>
 	</div>
 	
 </body>
